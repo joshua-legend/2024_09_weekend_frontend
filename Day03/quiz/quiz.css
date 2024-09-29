@@ -1,0 +1,52 @@
+.button1 {
+  color: white;
+  background-color: #22c55e;
+  border: 1px solid #22c55e;
+  border-radius: 3px;
+
+  /* 12[top] 3[right] 6[bottom] 9[left] */
+  padding: 12px 35px 12px 35px;
+}
+
+.button2 {
+  color: white;
+  background-color: #22c55e;
+  border: 1px solid #22c55e;
+  border-radius: 3px;
+  padding: 12px 80px 12px 80px;
+}
+
+.button3 {
+  color: white;
+  background-color: #22c55e;
+  border: 1px solid #22c55e;
+  border-radius: 3px;
+  /* 12[top] 3[right] 6[bottom] 9[left] */
+  padding: 12px 35px 12px 35px;
+  opacity: 0.5;
+}
+
+.button4 {
+  color: white;
+  background-color: #22c55e;
+  border: 1px solid #22c55e;
+  border-radius: 3px;
+  padding: 12px 80px 12px 80px;
+  opacity: 0.5;
+}
+
+.button5 {
+  color: #22c55e;
+  border: 1px solid #22c55e;
+  border-radius: 30px;
+  padding: 10px 12px 10px 12px;
+  background-color: white;
+}
+
+.button6 {
+  color: #22c55e;
+  border: 1px solid #22c55e;
+  border-radius: 30px;
+  padding: 10px 30px 10px 30px;
+  background-color: white;
+}

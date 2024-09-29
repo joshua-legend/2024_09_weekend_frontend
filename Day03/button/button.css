@@ -1,0 +1,26 @@
+.member {
+  color: #73a0b8;
+  border: 1px solid #73a0b8;
+  border-radius: 4px;
+  background-color: white;
+}
+
+.box {
+  border-radius: 4px;
+  padding-top: 2px;
+}
+
+.green {
+  background-color: #98eccb;
+  border: 1px solid #98eccb;
+}
+
+.blue {
+  background-color: #9dd7ff;
+  border: 1px solid #9dd7ff;
+}
+
+.purple {
+  background-color: #c9c5ff;
+  border: 1px solid #c9c5ff;
+}
