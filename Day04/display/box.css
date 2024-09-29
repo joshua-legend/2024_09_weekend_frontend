@@ -1,0 +1,39 @@
+.palette {
+  display: flex;
+  flex-direction: row;
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+}
+
+.box {
+  width: 100px;
+  height: 100px;
+}
+
+.a {
+  background-color: #55efc4;
+}
+.b {
+  background-color: #81ecec;
+}
+.c {
+  background-color: #00b894;
+}
+.d {
+  background-color: #00cec9;
+}
+.e {
+  background-color: #ffeaa7;
+}
+.f {
+  background-color: #fab1a0;
+}
+.g {
+  background-color: #fdcb6e;
+}
+.h {
+  background-color: #e17055;
+}

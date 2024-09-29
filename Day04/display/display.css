@@ -1,0 +1,20 @@
+.container {
+  display: flex;
+}
+
+.card {
+  /* 자식들을 수직 또는 수평으로 배치하는 속성 */
+  display: flex;
+  flex-direction: column;
+}
+
+.album {
+  width: 100px;
+  height: 100px;
+}
+
+.album > img {
+  width: 100%;
+  height: 100%;
+  border-radius: 4px;
+}

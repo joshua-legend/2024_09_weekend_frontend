@@ -1,0 +1,25 @@
+.container {
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px,
+    rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+  padding: 10px 40px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  border-radius: 10px;
+  width: fit-content;
+}
+
+.box {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+}
+
+.icon {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  justify-content: center;
+  align-items: center;
+  width: fit-content;
+}
