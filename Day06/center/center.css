@@ -1,0 +1,11 @@
+.container {
+  width: 100vw;
+}
+
+.contents {
+  width: 100%;
+  background-color: black;
+  max-width: 800px;
+  /* margin으로 중앙화 해주는 방법  */
+  margin: 0 auto;
+}
